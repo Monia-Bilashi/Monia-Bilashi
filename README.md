@@ -5,7 +5,7 @@
 - ✨ I can Create Email Signature by HTML.
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I'm looking to collaborate on Beginner. and 
-- 📫 How to reach me. https://www.facebook.com/<br/> bmonia2018@gmail.com <br/> https://github.com/Monia-Bilashi <br/>https://www.linkedin.com/in/monia-bilashi-82b3b11b0/<br/>
+- 📫 How to reach me.E-mail: bmonia2018@gmail.com <br/>Github: https://github.com/Monia-Bilashi <br/>Linkedin: https://www.linkedin.com/in/monia-bilashi-82b3b11b0/<br/> Facebook: https://www.facebook.com/<br/>
 
 <!---
 Monia-Bilashi/Monia-Bilashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
