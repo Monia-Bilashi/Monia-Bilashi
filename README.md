@@ -1,24 +1,33 @@
-<h1 align="center">Hi 👋, I'm Monia Bilashi</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Monia-Bilashi</h1>
+<h3 align="center">Self Learner (Web Design sector) and also include CPA Marketing. I am from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monia-bilashi&label=Profile%20views&color=0e75b6&style=flat" alt="monia-bilashi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monia-bilashi" alt="monia-bilashi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently working on [follow github](https://github.com/Monia-Bilashi?tab=repositories)
 
-- 💬 Ask me about **Html,CSS,Js,Bootstrap,CMS on Wordpress**
+- 🌱 I’m currently learning **js, sass,framework,CMS (Wordpress).**
+
+- 👯 I’m looking to collaborate on **Beginner**
+
+- 🤝 I’m looking for help with [Intersted persion](https://github.com/Monia-Bilashi?tab=repositories)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Monia-Bilashi?tab=repositories](https://github.com/Monia-Bilashi?tab=repositories)
+
+- 💬 Ask me about **Html,CSS,Js,Bootstrap,CMS (Wordpress)**
 
 - 📫 How to reach me **bmonia2018@gmail.com**
 
+- ⚡ Fun fact **I think I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/monia-bilashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="monia-bilashi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/monia (moni) bilashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monia (moni) bilashi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/monia bilashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="monia bilashi" height="30" width="40" /></a>
-<a href="https://instagram.com/monia bilashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monia bilashi" height="30" width="40" /></a>
-<a href="https://www.behance.net/monia bilashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="monia bilashi" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/coder's bilashi](https://www.youtube.com/channel/UCUevlh-p8Ivh8taEnRRCd0Q/channels)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coder's bilashi" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/monia_bilashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/monia_bilashi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/monia-bilashi-82b3b11b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/monia-bilashi-82b3b11b0/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18026773/monia-bilashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18026773/monia-bilashi" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/geeky.bilashi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/geeky.bilashi/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucuevlh-p8ivh8taenrrcd0q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucuevlh-p8ivh8taenrrcd0q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monia-bilashi&show_icons=true&locale=en" alt="monia-bilashi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monia-bilashi&" alt="monia-bilashi" /></p>
+
