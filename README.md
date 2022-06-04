@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monia-bilashi&label=Profile%20views&color=0e75b6&style=flat" alt="monia-bilashi" /> </p>
 
-<p align="left" bgcolor=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monia-bilashi" alt="monia-bilashi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monia-bilashi.gruvbox/app" alt="monia-bilashi" /></a> </p>
 
 - 🔭 I’m currently working on [follow github](https://github.com/Monia-Bilashi?tab=repositories)
 
